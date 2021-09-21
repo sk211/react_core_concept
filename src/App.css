@@ -1,0 +1,14 @@
+.footer {
+  background-color: bisque;
+  font-size: 30px;
+}
+.App {
+  display: flex;
+  justify-content: space-around;
+}
+.person {
+  background: #170994;
+  color: white;
+  border: 2px solid green;
+  width: 250px;
+}
